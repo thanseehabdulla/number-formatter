@@ -1,0 +1,19 @@
+{
+  "name": "number-formatter",
+  "version": "2.0.0",
+  "description": "this is a first npm package for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanseehabdulla/number-formatter.git"
+  },
+  "author": "“Abdulla <“thanseehabdulla@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thanseehabdulla/number-formatter/issues"
+  },
+  "homepage": "https://github.com/thanseehabdulla/number-formatter#readme"
+}
